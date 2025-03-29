@@ -4,6 +4,8 @@ telegram: https://t.me/zer0dayanon
 web: https://aboutme.info  
 Discord Channel: https://discord.gg/htb
 
+FULL Video: https://www.youtube.com/shorts/CqHvmcQFizs
+
 
 #### This repository is for educational purposes only, we only provide Python Scripts so that you can use them in the purposes you need.
 ![image](https://cdn.discordapp.com/attachments/1326601092045344919/1355367452216922242/0day_w_people.png?ex=67e8abce&is=67e75a4e&hm=42a9b9878c656a09578c4bab5c29249105c49859886c7161037397a691b838b3&)
